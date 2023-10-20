@@ -10,9 +10,6 @@ on:
       - main
   schedule:
     - cron: "0 0 * * *"
-name: CI
-
-
 jobs:
   devcard:
     runs-on: ubuntu-latest
