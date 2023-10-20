@@ -15,8 +15,8 @@
 
 #
 
-<p/>My name is Derek Hehn. I am a software engineering student searching for an entry level position. I excel in game development in Unity Game Engine, having created many demos, with experience both in scripting and 3D modeling. My primary languages for coding are C# and Python.
-
+<p/>
+My name is Derek Hehn. I am indie dev and full stack developer.I excel in game development in Unity Game Engine, having created many demos, with experience both in scripting and 3D modeling. My primary languages for coding are C# and Python
   
 </p>
 <!--
