@@ -3,9 +3,7 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derek9745&theme=dark&show_icons=true) 
 
-<div><img style="height: auto; width: 40%;" class="img" src="(https://github-readme-stats.vercel.app/api?username=Derek9745&theme=dark&show_icons=true"  align = "right"/></div>
 
- 
 ### 💼 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/>
