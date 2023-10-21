@@ -1,10 +1,10 @@
 
 <a href="https://app.daily.dev/derekhehn"><img src= "https://github.com/Derek9745/Derek9745/blob/main/devcard.svg" width="400" align ="left" alt="Derek Hehn's Dev Card"/></a> 
-<div>
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derek9745&theme=dark&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derek9745&theme=dark&show_icons=true) 
 
-</div>
+<div><img style="height: auto; width: 40%;" class="img" src="(https://github-readme-stats.vercel.app/api?username=Derek9745&theme=dark&show_icons=true"  align = "right"/></div>
+
  
 ### 💼 Languages and Tools
 
