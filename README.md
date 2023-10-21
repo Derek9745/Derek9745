@@ -1,7 +1,11 @@
 
-<a href="https://app.daily.dev/derekhehn"><img src= "https://github.com/Derek9745/Derek9745/blob/main/devcard.svg" width="400" alt="Derek Hehn's Dev Card"/></a> 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derek9745&theme=dark&show_icons=true)
+<a href="https://app.daily.dev/derekhehn"><img src= "https://github.com/Derek9745/Derek9745/blob/main/devcard.svg" width="400" align ="left" alt="Derek Hehn's Dev Card"/></a> 
+<div>
 
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derek9745&theme=dark&show_icons=true)
+
+</div>
+ 
 ### 💼 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/>
