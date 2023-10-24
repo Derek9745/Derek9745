@@ -21,6 +21,8 @@
 My name is Derek Hehn. I am indie dev and full stack developer. I excel in game development in Unity Game Engine, having created many demos, with experience both in scripting and 3D modeling. My primary languages for coding are C# and Python
   
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derek9745&theme=gruvbox&show_icons=true)
 <!--
 
 
