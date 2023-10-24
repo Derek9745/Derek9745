@@ -1,5 +1,5 @@
 
-<a href="https://app.daily.dev/derekhehn"><img src= "https://github.com/Derek9745/Derek9745/blob/main/devcard.svg" width="400" align ="left" alt="Derek Hehn's Dev Card"/></a> 
+<a href="https://app.daily.dev/derekhehn"><img src= "https://github.com/Derek9745/Derek9745/blob/main/devcard.svg" width="350" align ="left" alt="Derek Hehn's Dev Card"/></a> 
 
 
 
@@ -22,7 +22,7 @@ My name is Derek Hehn. I am indie dev and full stack developer. I excel in game 
   
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derek9745&theme=gruvbox&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derek9745&theme=gruvbox&show_icons=true)
 <!--
 
 
