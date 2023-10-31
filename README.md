@@ -22,7 +22,7 @@ My name is Derek Hehn. I am indie dev and full stack developer. I excel in game 
   
 </p>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derek9745&theme=gruvbox&show_icons=true)
+
 <!--
 
 
