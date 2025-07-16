@@ -18,7 +18,7 @@
 #
 
 <p/>
-My name is Derek Hehn. I am indie dev and full stack developer. I excel in game development in Unity Game Engine, having created many demos, with experience both in scripting and 3D modeling. My primary languages for coding are C# and Python
+My name is Derek Hehn. I am a computer science student and full stack developer, with experience with multiple programming languages and programs, including python, c#, and Kotlin. 
   
 </p>
 
