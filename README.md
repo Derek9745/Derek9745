@@ -18,7 +18,7 @@
 #
 
 <p/>
-My name is Derek Hehn. I am a computer science student and full stack developer, with experience with multiple programming languages and programs, including python, c#, and Kotlin. 
+My name is Derek Hehn. I am a computer science student and full stack developer, with experience with multiple programming languages and programs, including Python, C#, and Kotlin. 
   
 </p>
 
