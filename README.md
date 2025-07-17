@@ -22,6 +22,8 @@ My name is Derek Hehn. I am a computer science student and full stack developer,
   
 </p>
 
+[Portfolio](https://derek9745.github.io/)
+
 
 <!--
 
