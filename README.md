@@ -1,9 +1,8 @@
 
-<a href="https://app.daily.dev/derekhehn"><img src= "https://github.com/Derek9745/Derek9745/blob/main/devcard.svg" width="350" align ="left" alt="Derek Hehn's Dev Card"/></a> 
 
 
 
-### 💼 Languages and Tools
+###  Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -23,6 +22,7 @@ My name is Derek Hehn. I am a computer science student and full stack developer,
 </p>
 
 [Portfolio](https://derek9745.github.io/)
+
 
 
 <!--
